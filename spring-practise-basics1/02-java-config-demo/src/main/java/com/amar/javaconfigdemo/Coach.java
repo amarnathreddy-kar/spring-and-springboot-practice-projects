@@ -1,0 +1,9 @@
+package com.amar.javaconfigdemo;
+
+public interface Coach {
+
+    public String getDailyWorkout();
+
+    public String getDailyFortune();
+
+}
